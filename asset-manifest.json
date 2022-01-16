@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://daremes.github.io/csb-z65n8/static/css/main.b2d552de.chunk.css",
+    "main.js": "https://daremes.github.io/csb-z65n8/static/js/main.18b7756c.chunk.js",
+    "main.js.map": "https://daremes.github.io/csb-z65n8/static/js/main.18b7756c.chunk.js.map",
+    "runtime-main.js": "https://daremes.github.io/csb-z65n8/static/js/runtime-main.6c70d478.js",
+    "runtime-main.js.map": "https://daremes.github.io/csb-z65n8/static/js/runtime-main.6c70d478.js.map",
+    "static/js/2.bfb0df67.chunk.js": "https://daremes.github.io/csb-z65n8/static/js/2.bfb0df67.chunk.js",
+    "static/js/2.bfb0df67.chunk.js.map": "https://daremes.github.io/csb-z65n8/static/js/2.bfb0df67.chunk.js.map",
+    "index.html": "https://daremes.github.io/csb-z65n8/index.html",
+    "static/css/main.b2d552de.chunk.css.map": "https://daremes.github.io/csb-z65n8/static/css/main.b2d552de.chunk.css.map",
+    "static/js/2.bfb0df67.chunk.js.LICENSE.txt": "https://daremes.github.io/csb-z65n8/static/js/2.bfb0df67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c70d478.js",
+    "static/js/2.bfb0df67.chunk.js",
+    "static/css/main.b2d552de.chunk.css",
+    "static/js/main.18b7756c.chunk.js"
+  ]
+}
